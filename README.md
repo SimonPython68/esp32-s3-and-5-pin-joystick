@@ -105,10 +105,10 @@ If a direction feels reversed, flip the sign on `dx` or `dy` in `loop()`. If the
 ## Testing the screen on its own
 
 If the screen misbehaves, test it separately with a small sketch that fills the screen red, green, blue, white and black in turn, using the same pins and build flags. If that works, the wiring and settings are good and any remaining problem is in the application code.
-<img width="2048" height="3384" alt="PXL_20261015_114603738~2" src="https://github.com/user-attachments/assets/774342b8-9066-4eb7-9505-7fa564a2ea40" />
-<img width="2352" height="1419" alt="PXL_20261015_114608335~2" src="https://github.com/user-attachments/assets/241aa036-0e0f-4637-8023-482f070690b7" />
-<img width="2070" height="1259" alt="PXL_20261015_114615728~2" src="https://github.com/user-attachments/assets/5961176c-e5d2-4922-9930-8ba6a7ef3851" />
-<img width="2140" height="2099" alt="PXL_20261015_114631767 MACRO_FOCUS~2" src="https://github.com/user-attachments/assets/353b9af4-e547-492b-aa47-7c27636ed357" />
+<img width="204" height="338" alt="PXL_20261015_114603738~2" src="https://github.com/user-attachments/assets/774342b8-9066-4eb7-9505-7fa564a2ea40" />
+<img width="235" height="141" alt="PXL_20261015_114608335~2" src="https://github.com/user-attachments/assets/241aa036-0e0f-4637-8023-482f070690b7" />
+<img width="207" height="125" alt="PXL_20261015_114615728~2" src="https://github.com/user-attachments/assets/5961176c-e5d2-4922-9930-8ba6a7ef3851" />
+<img width="214" height="209" alt="PXL_20261015_114631767 MACRO_FOCUS~2" src="https://github.com/user-attachments/assets/353b9af4-e547-492b-aa47-7c27636ed357" />
 
 
 
