@@ -1,6 +1,6 @@
 # ESP32-S3 + ILI9341 2.4" TFT + Joystick Drawing
 
-A simple drawing program for a **Waveshare ESP32-S3-DEV-KIT-NXRX** with a **2.4" 240x320 SPI TFT (ILI9341)** and an analog **joystick module**. Move the joystick to move a crosshair around the screen and draw lines.
+A simple drawing program for a **Waveshare ESP32-S3-DEV-KIT-NXRX** with a **2.4" 240x320 SPI TFT (ILI9341)** and an analog **joystick module**. Move the joystick to move a crosshair around the screen and draw lines. When the cross is green it will draw, and red is movement only.
 
 Built with **PlatformIO** in **VS Code**, using the **TFT_eSPI** library.
 
